@@ -1,35 +1,63 @@
+# Hi, I'm Imad 👋  
+**Full-Stack Web Developer | Product-Focused Builder**
 
-# Hey, I'm Imad 👋
-
-I’m a **full-stack developer** focused on building useful tools, shipping fast, and growing products through SEO and distribution.
-
-I mostly work with **Next.js, TypeScript, Tailwind, and modern web tooling**, and I care more about **real users** than vanity metrics.
-
----
-
-## 🚀 Projects
-
-- 🏠 **Domnest** – A curated directory for tools, SaaS, and indie products with free submissions  
-- 🧰 **FreeToolNow** – A growing directory of free tools and software  
-- 🔧 **Merge JSON Files** – A fast, browser-based tool to merge, split, and process JSON files  
-- ⚡ **Xappy** – Lightweight experiments around AI-powered utilities and micro-products  
+I build **real-world web products** with modern technologies, from idea to deployment.  
+My focus is on **clean UI, solid backend logic, and products that attract users through SEO and distribution**.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Products I’ve Built
 
-- **Frontend:** Next.js, React, TypeScript, Tailwind, ShadCN  
-- **Backend:** Node.js, MongoDB, REST APIs  
-- **Other:** SEO, programmatic pages, Stripe, analytics, Vercel  
+- 🏠 **domnest.app**
+  A dashboard to manage domains, SSL certificates, and uptime alerts in one place.
+
+- 🧰 **freetoolnow.com**  
+  A launch platform and directory where developers can submit and showcase their tools and SaaS.
+
+- 🔧 **merge-json-files.com**  
+  A browser‑based tool to merge, split, and manipulate JSON files quickly and easily.
+
+- ⚡ **xappy.fun**  
+  A random video chat app for developers and builders to connect and network online.
 
 ---
 
-## 🌱 Focus
+## 🛠 Skills & Technologies
 
-- Building traffic-first products  
-- Scaling at least one profitable SaaS  
-- Learning by shipping in public  
+**Frontend**
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+
+**Backend**
+- Node.js
+- Next.js API routes
+- REST APIs
+- MongoDB & Mongoose
+- Authentication (Clerk, custom auth flows)
+
+**Product & Deployment**
+- SEO & programmatic pages
+- Lemonsqueezy / Stripe payments
+- Analytics & tracking
+- Deployment
+- Performance & UX optimization
 
 ---
 
-> *Just ship it.*
+## 💡 What Sets Me Apart
+
+- I ship **complete products**, not just demos  
+- I understand **SEO, traffic, and distribution**, not only code  
+- I focus on **maintainable code and user experience**  
+- I learn fast and improve by building in public  
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: **imaduddin.me**
+- 🐦 X / Twitter: *x.com/imadbuilds*
+

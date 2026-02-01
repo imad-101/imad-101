@@ -4,8 +4,6 @@
 I build **real-world web products** with modern technologies, from idea to deployment.  
 My focus is on **clean UI, solid backend logic, and products that attract users through SEO and distribution**.
 
----
-
 ## 🚀 Products I’ve Built
 
 - 🏠 **domnest.app**
@@ -19,8 +17,6 @@ My focus is on **clean UI, solid backend logic, and products that attract users 
 
 - ⚡ **xappy.fun**  
   A random video chat app for developers and builders to connect and network online.
-
----
 
 ## 🛠 Skills & Technologies
 
@@ -45,7 +41,6 @@ My focus is on **clean UI, solid backend logic, and products that attract users 
 - Deployment
 - Performance & UX optimization
 
----
 
 ## 💡 What Sets Me Apart
 
@@ -53,8 +48,6 @@ My focus is on **clean UI, solid backend logic, and products that attract users 
 - I understand **SEO, traffic, and distribution**, not only code  
 - I focus on **maintainable code and user experience**  
 - I learn fast and improve by building in public  
-
----
 
 ## 📫 Contact
 

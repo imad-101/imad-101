@@ -11,11 +11,11 @@ My work focuses on clean UI, reliable backend systems, and building products tha
 
 - 🧰 **freetoolnow.com**  
   A growing collection of free online tools built for everyday use.  
-  Receives **{{XX,000+}} monthly visitors** from organic and referral traffic.
+  Receives **20k+ monthly visitors** from traffic.
 
 - 🔧 **merge-json-files.com**  
   A browser based JSON tool suite including merge, split, and flatten features.  
-  Receives **{{XX,000+}} monthly visitors** and processes **{{X,000+}} files** without server side computation.
+  Receives **5k+ monthly visitors** from organic traffic.
 
 - ⚡ **xappy.fun**  
   A real time random video chat app built for developers and makers.

@@ -11,7 +11,7 @@ My work focuses on clean UI, reliable backend systems, and building products tha
 
 - 🧰 **freetoolnow.com**  
   A growing collection of free online tools built for everyday use.  
-  Receives **20k+ monthly visitors** from traffic.
+  Receives **20k+ monthly visitors**, organically.
 
 - 🔧 **merge-json-files.com**  
   A browser based JSON tool suite including merge, split, and flatten features.  
